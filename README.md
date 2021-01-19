@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-h1 Study
+h1-Study
 h2  Study
 h3   Study
 <!--

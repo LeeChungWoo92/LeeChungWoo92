@@ -3,9 +3,9 @@
 
 
 
-> Study
->>  Study
->>>   Study
+1.Study
+2.Study
+3.Study
 <!--
 **LeeChungWoo92/LeeChungWoo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

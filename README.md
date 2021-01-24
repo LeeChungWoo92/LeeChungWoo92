@@ -3,7 +3,7 @@
 
 
 
-1. Study  
+1.Study  
 2.Study  
 3.Study
 <!--
